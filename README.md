@@ -22,7 +22,7 @@ source activate telebot
 https://docs.aiogram.dev/en/latest/index.html
 ```
 
-                                                                                   ## Output looks likes this 
+ ## Output looks likes this 
                                                                                    
   ![image](https://github.com/Praveenku32k/Telegram_ChatBot/assets/68581081/e600cd5d-343a-4e18-8c9f-2019cf55734b)
 
