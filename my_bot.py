@@ -48,7 +48,7 @@ async def welcome(message: types.Message):
     Args:
         message (types.Message): description
     """
-    await message.reply("Hi\nI am a Chat Bot! Created by Bappy. How can i assist you?")
+    await message.reply("Hi\nI am a Chat Bot! Created by Praveen Kumar!. How can i assist you?")
 
 
 @dispatcher.message_handler(commands=['help'])
