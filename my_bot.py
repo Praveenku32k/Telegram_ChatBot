@@ -57,7 +57,7 @@ async def helper(message: types.Message):
     A handler to display the help menu.
     """
     help_command = """
-    Hi There, I'm a bot created by Bappy! Please follow these commands - 
+    Hi There, I'm a bot created by Praveen Kumar! Please follow these commands - 
     /start - to start the conversation
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
